@@ -55,7 +55,7 @@ Install the Azure Spring Cloud extension for the Azure CLI using the following c
 
 ```bash
     mkdir source-code
-    git clone https://github.com/azure-samples/spring-petclinic-microservices
+    git https://github.com/hemantmalik/spring-petclinic-microservices
 ```
 
 ### Change directory and build the project
